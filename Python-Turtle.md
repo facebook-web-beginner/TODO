@@ -10,6 +10,6 @@
 <p> 
 Turtle est un module graphique du langage de programmation Python. Il est inspiré de la programmation Logo et permet de déplacer une tortue sur l’écran. </p>
 
-<p> Je cherche une ou deux personnes avec un niveau découverte de python, c'est à dire des personnes qui connaissent au minimum les bases de python </p>
+<p> Je cherche une ou deux personnes avec un niveau découverte de python, c'est à dire des personnes qui connaissent au minimum les bases de python.</p>
 
-<p> On s'amuseras à créer les formes géométrique les plus élémentaires, ensuite ont laisseras nos âmes d'artiste s'exprimer </p>
+<p> On s'amuseras à créer les formes géométrique les plus élémentaires, ensuite ont laisseras nos âmes d'artiste s'exprimer. </p>
