@@ -5,5 +5,6 @@
 
 <p> Si tu as envie d'ajouter un projet à la liste des prochains travaux viens créer un fichier sur ce repository </p>
 
-<p> Indique le nom du programme suivi de son langage principale <em> exemple : ( Js-VraiOuFaux.md ) </p>
-<p> Édite ton fichier en expliquant l'idée du projets et toutes les informations nécessaires </p>
+<p> Indique le nom du programme suivi de son langage principale <em> exemple : ( Js-VraiOuFaux.md ) </em></p>
+
+<p> Édite ton fichier en expliquant l'idée du projet et toutes les informations nécessaires </p>
